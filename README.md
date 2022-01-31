@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm currently working on extracting words from diagrams in an open-source project: pyamiimage
+
+Feel free to contact me if you would like to contribute
 <!--
 **anuvc/anuvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
