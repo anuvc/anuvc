@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm currently working on extracting words from diagrams in an open-source project: pyamiimage
+I'm an explorer in physics, artificial intelligence, and life, studying them from first principles. I believe that life and intelligence are scale-free properties of the universe.
 
-Feel free to contact me if you would like to collaborate!
+Previously, I developed transformer models for IBM RXN for Chemistry, the first remotely accessible, autonomous chemical laboratory. Additionally, I contributed to pyamiimage, software for extracting chemical reactivity from chemical pathway diagrams in scientific literature.
+
+Keen on collaborations and discussions in these domains.
+
 <!--
 **anuvc/anuvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
