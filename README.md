@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an explorer in physics, artificial intelligence, and life, studying them from first principles. I believe that life and intelligence are scale-free properties of the universe.
+I'm dedicated to studying life and intelligence from first principles with the goal of creating artificial life and intelligence. I hold the belief that these properties are scale-free facets of the universe.
 
 Previously, I developed transformer models for IBM RXN for Chemistry, the first remotely accessible, autonomous chemical laboratory. Additionally, I contributed to pyamiimage, software for extracting chemical reactivity from chemical pathway diagrams in scientific literature.
 
